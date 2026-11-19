@@ -1,6 +1,6 @@
 # PS1 Info and Wandsec
 
-A reference repository for pet statistics and game-remote information.
+fuck you.
 
 ## Contents
 
